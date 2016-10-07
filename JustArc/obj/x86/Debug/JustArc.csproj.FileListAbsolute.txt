@@ -1,0 +1,48 @@
+E:\GameCore\JustArc\JustArc\obj\x86\Debug\JustArc.csprojResolveAssemblyReference.cache
+E:\GameCore\JustArc\JustArc\bin\Debug\OpenTK.dll.config
+E:\GameCore\JustArc\JustArc\bin\Debug\JustArc.exe
+E:\GameCore\JustArc\JustArc\bin\Debug\JustArc.pdb
+E:\GameCore\JustArc\JustArc\bin\Debug\MonoGame.Framework.dll
+E:\GameCore\JustArc\JustArc\bin\Debug\NVorbis.dll
+E:\GameCore\JustArc\JustArc\bin\Debug\OpenTK.dll
+E:\GameCore\JustArc\JustArc\obj\x86\Debug\JustArc.exe
+E:\GameCore\JustArc\JustArc\obj\x86\Debug\JustArc.pdb
+E:\GameCore\JustArc\JustArc\bin\Debug\Content\ExplorerHero.xnb
+E:\GameCore\JustArc\JustArc\bin\Debug\Content\Font.xnb
+E:\GameCore\JustArc\JustArc\bin\Debug\Content\hp.xnb
+D:\GameCore\JustArc\JustArc\obj\x86\Debug\JustArc.exe
+D:\GameCore\JustArc\JustArc\obj\x86\Debug\JustArc.pdb
+D:\GameCore\JustArc\JustArc\bin\Debug\OpenTK.dll.config
+D:\GameCore\JustArc\JustArc\bin\Debug\Content\Font.xnb
+D:\GameCore\JustArc\JustArc\bin\Debug\Content\hp.xnb
+D:\GameCore\JustArc\JustArc\bin\Debug\JustArc.exe
+D:\GameCore\JustArc\JustArc\bin\Debug\JustArc.pdb
+D:\GameCore\JustArc\JustArc\bin\Debug\MonoGame.Framework.dll
+D:\GameCore\JustArc\JustArc\bin\Debug\NVorbis.dll
+D:\GameCore\JustArc\JustArc\bin\Debug\OpenTK.dll
+D:\GameCore\JustArc\JustArc\obj\x86\Debug\JustArc.csprojResolveAssemblyReference.cache
+D:\GameCore\JustArc\JustArc\bin\Debug\Content\Germman.xnb
+D:\GameCore\JustArc\JustArc\bin\Debug\Content\Ring_1 (1).xnb
+D:\GameCore\JustArc\JustArc\bin\Debug\Content\Ring1.xnb
+D:\GameCore\JustArc\JustArc\bin\Debug\Content\PlayerSheet.xnb
+D:\GameCore\JustArc\JustArc\bin\Debug\Content\Win.xnb
+D:\GameCore\JustArc\JustArc\bin\Debug\Content\Lose.xnb
+D:\GameCore\JustArc\JustArc\bin\Debug\Content\All.xnb
+C:\Users\Tik\Documents\Visual Studio 2015\Projects\JustArc\JustArc\obj\x86\Debug\JustArc.exe
+C:\Users\Tik\Documents\Visual Studio 2015\Projects\JustArc\JustArc\obj\x86\Debug\JustArc.pdb
+C:\Users\Tik\Documents\Visual Studio 2015\Projects\JustArc\JustArc\bin\Debug\OpenTK.dll.config
+C:\Users\Tik\Documents\Visual Studio 2015\Projects\JustArc\JustArc\bin\Debug\Content\Font.xnb
+C:\Users\Tik\Documents\Visual Studio 2015\Projects\JustArc\JustArc\bin\Debug\Content\Germman.xnb
+C:\Users\Tik\Documents\Visual Studio 2015\Projects\JustArc\JustArc\bin\Debug\Content\hp.xnb
+C:\Users\Tik\Documents\Visual Studio 2015\Projects\JustArc\JustArc\bin\Debug\Content\Lose.xnb
+C:\Users\Tik\Documents\Visual Studio 2015\Projects\JustArc\JustArc\bin\Debug\Content\PlayerSheet.xnb
+C:\Users\Tik\Documents\Visual Studio 2015\Projects\JustArc\JustArc\bin\Debug\Content\Ring1.xnb
+C:\Users\Tik\Documents\Visual Studio 2015\Projects\JustArc\JustArc\bin\Debug\Content\Ring_1 (1).xnb
+C:\Users\Tik\Documents\Visual Studio 2015\Projects\JustArc\JustArc\bin\Debug\Content\Win.xnb
+C:\Users\Tik\Documents\Visual Studio 2015\Projects\JustArc\JustArc\bin\Debug\JustArc.exe
+C:\Users\Tik\Documents\Visual Studio 2015\Projects\JustArc\JustArc\bin\Debug\JustArc.pdb
+C:\Users\Tik\Documents\Visual Studio 2015\Projects\JustArc\JustArc\bin\Debug\MonoGame.Framework.dll
+C:\Users\Tik\Documents\Visual Studio 2015\Projects\JustArc\JustArc\bin\Debug\NVorbis.dll
+C:\Users\Tik\Documents\Visual Studio 2015\Projects\JustArc\JustArc\bin\Debug\OpenTK.dll
+C:\Users\Tik\Documents\Visual Studio 2015\Projects\JustArc\JustArc\obj\x86\Debug\JustArc.csprojResolveAssemblyReference.cache
+C:\Users\Tik\Documents\Visual Studio 2015\Projects\JustArc\JustArc\bin\Debug\Content\PowerHit.xnb

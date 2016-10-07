@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Tik/Documents/Visual Studio 2015/Projects/JustArc/JustArc/Content/Font.spritefont</File>
+    <File>C:/Users/Tik/Documents/Visual Studio 2015/Projects/JustArc/JustArc/Content/hp.png</File>
+    <File>C:/Users/Tik/Documents/Visual Studio 2015/Projects/JustArc/JustArc/Content/Germman.png</File>
+    <File>C:/Users/Tik/Documents/Visual Studio 2015/Projects/JustArc/JustArc/Content/Ring_1 (1).png</File>
+    <File>C:/Users/Tik/Documents/Visual Studio 2015/Projects/JustArc/JustArc/Content/Ring1.png</File>
+    <File>C:/Users/Tik/Documents/Visual Studio 2015/Projects/JustArc/JustArc/Content/PlayerSheet.png</File>
+    <File>C:/Users/Tik/Documents/Visual Studio 2015/Projects/JustArc/JustArc/Content/Win.png</File>
+    <File>C:/Users/Tik/Documents/Visual Studio 2015/Projects/JustArc/JustArc/Content/Lose.png</File>
+    <File>C:/Users/Tik/Documents/Visual Studio 2015/Projects/JustArc/JustArc/Content/PowerHit.png</File>
+  </SourceFiles>
+</SourceFileCollection>
