@@ -46,3 +46,5 @@ C:\Users\Tik\Documents\Visual Studio 2015\Projects\JustArc\JustArc\bin\Debug\NVo
 C:\Users\Tik\Documents\Visual Studio 2015\Projects\JustArc\JustArc\bin\Debug\OpenTK.dll
 C:\Users\Tik\Documents\Visual Studio 2015\Projects\JustArc\JustArc\obj\x86\Debug\JustArc.csprojResolveAssemblyReference.cache
 C:\Users\Tik\Documents\Visual Studio 2015\Projects\JustArc\JustArc\bin\Debug\Content\PowerHit.xnb
+C:\Users\Tik\Documents\Visual Studio 2015\Projects\JustArc\OnePunch\JustArc\obj\x86\Debug\JustArc.exe
+C:\Users\Tik\Documents\Visual Studio 2015\Projects\JustArc\OnePunch\JustArc\obj\x86\Debug\JustArc.pdb
